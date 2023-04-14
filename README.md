@@ -26,3 +26,5 @@ In this project, we were asked to use imbalanced-learn and scikit-learn librarie
 
 Data Source: LoanStats_2019Q1.csv
 
+## Results for the six machine learning models including their respective balanced accuracy, precision, and recall scores below:
+
