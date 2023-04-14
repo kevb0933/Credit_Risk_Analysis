@@ -46,5 +46,17 @@ Balanced Accuracy: Balanced Accuracy: 0.5442166848817717, Precision: The precisi
 # Combination (Over and Under) Sampling
 ![Combination (Over and Under) Sampling](https://user-images.githubusercontent.com/114125836/231916849-c27f134f-4aea-45f7-a8e8-bd68f057d5b1.PNG)
 
-Balanced Accuracy: Balanced Accuracy: 0.5442166848817717, Precision: The precision shows low for High-risk loans but high for Low-risk loans, Recall: High/Low risk = .70/.58
+Balanced Accuracy: Balanced Accuracy: 0.6400726134353378, Precision: The precision shows low for High-risk loans but high for Low-risk loans, Recall: High/Low risk = .70/.58
+
+# Balanced Random Forest Classifier
+![Balanced Random Forest Classifier](https://user-images.githubusercontent.com/114125836/231917125-2dd9b6cc-353d-4c9c-8723-af24be41c539.PNG)
+
+Balanced Accuracy: Balanced Accuracy: 0.7885466545953005, Precision: The precision shows low for High-risk loans but high for Low-risk loans, Recall: High/Low risk = .70/.87
+
+# Easy Ensemble AdaBoost Classifier
+![Easy Ensemble AdaBoost Classifier](https://user-images.githubusercontent.com/114125836/231917251-7ab919d3-18e2-42d8-b9d2-88a213f0504e.PNG)
+
+Balanced Accuracy: Balanced Accuracy: 0.9316600714093861, Precision: The precision shows low for High-risk loans but high for Low-risk loans, Recall: High/Low risk = .92/.94
+
+## Summary
 
