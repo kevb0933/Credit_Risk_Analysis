@@ -28,3 +28,9 @@ Data Source: LoanStats_2019Q1.csv
 
 ## Results for the six machine learning models including their respective balanced accuracy, precision, and recall scores below:
 
+# Naive Random Oversampling
+![Naive Random Oversampling](https://user-images.githubusercontent.com/114125836/231915496-ef6e5c0d-9d12-4ce7-8a1c-0970ca98938c.PNG)
+Balanced Accuracy: 0.646602844334948, Precision: The precision shows low for High-risk loans but high for Low-risk loans, Recall: High/Low risk = .74/.55
+
+# SMOTE Oversampling
+![SMOTE Oversampling](https://user-images.githubusercontent.com/114125836/231915480-929b7cb4-cf44-4556-a258-6c2de9425baf.PNG)
