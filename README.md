@@ -35,3 +35,10 @@ Balanced Accuracy: 0.646602844334948, Precision: The precision shows low for Hig
 
 # SMOTE Oversampling
 ![SMOTE Oversampling](https://user-images.githubusercontent.com/114125836/231915480-929b7cb4-cf44-4556-a258-6c2de9425baf.PNG)
+
+Balanced Accuracy: 0.662394124702461, Precision: The precision shows low for High-risk loans but high for Low-risk loans, Recall: High/Low risk = .63/.69
+
+# Undersampling
+![Undersampling](https://user-images.githubusercontent.com/114125836/231915732-fefc4cc1-ad78-4c3a-8d58-7ad56410cb31.PNG)
+
+Balanced Accuracy: Balanced Accuracy: 0.5442166848817717, Precision: The precision shows low for High-risk loans but high for Low-risk loans, Recall: High/Low risk = .63/.69
